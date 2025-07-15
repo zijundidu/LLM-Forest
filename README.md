@@ -4,7 +4,7 @@ Some discussion about the future development of the LLM model
 > 
 > **内容使用Kimi进行生成**
 
-# 对话全记录（中文版）
+# 对话全记录（中文版）| [英文版](en.md)
 
 ---
 
