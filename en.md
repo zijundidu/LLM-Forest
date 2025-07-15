@@ -1,5 +1,5 @@
 Some discussion about the future development of the LLM model
-
+> [zh.md](https://github.com/zijundidu/LLM-Forest)
 ---
 
 Q1  
