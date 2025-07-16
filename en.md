@@ -1,5 +1,7 @@
 Some discussion about the future development of the LLM model
 > [zh.md](https://github.com/zijundidu/LLM-Forest)
+>
+> [The Ultimate Guide to LLM Semantic Forests: From Theory to Industry Practice](LLM_Semantic_Forest_Full.html)
 ---
 
 Q1  
