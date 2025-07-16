@@ -5,7 +5,7 @@ Some discussion about the future development of the LLM model
 > **内容使用Kimi进行生成**
 
 # 对话全记录（中文版）| [英文版](en.md)
-
+> [LLM语义森林终极指南：从理论到产业实践](LLM_Semantic_Forest_Full.html)
 ---
 
 Q1  
